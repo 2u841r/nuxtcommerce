@@ -44,7 +44,7 @@ export default defineNuxtConfig({
   },
 
   routeRules: {
-    '/': { prerender: true },
+    '/': { swr: 300 },
     '/categories': { swr: 3600 },
     '/favorites': { swr: 600 },
   },
