@@ -2,7 +2,7 @@
   "name": "nuxtcommerce",
   "version": "3.1.16",
   "private": true,
-  "author": "zackha",
+  "author": "zackha2",
   "description": "Headless storefront for Woocommerce (Nuxt/Vue)",
   "type": "module",
   "scripts": {
@@ -19,6 +19,7 @@
     "@nuxt/ui": "^2.22.3",
     "@nuxthub/core": "0.9.0",
     "@nuxtjs/i18n": "10.1.0",
+    "graphql-request": "^7.3.1",
     "notivue": "^2.4.5",
     "nuxt": "^4.2.0",
     "nuxt-graphql-request": "^8.1.1",
